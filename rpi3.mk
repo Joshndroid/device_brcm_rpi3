@@ -1,7 +1,7 @@
 USE_OEM_TV_APP := true
 $(call inherit-product, device/google/atv/products/atv_base.mk)
 
-PRODUCT_NAME := rpi3
+PRODUCT_NAME := cm_rpi3
 PRODUCT_DEVICE := rpi3
 PRODUCT_BRAND := AndroidTV
 PRODUCT_MODEL := AndroidTV on rpi3
